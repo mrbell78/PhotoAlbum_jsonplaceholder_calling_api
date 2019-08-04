@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoAlbum_retrofit2</string>
+    <string name="empty_result">No data!</string>
+</resources>
